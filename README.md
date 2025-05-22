@@ -44,7 +44,7 @@
             <li><b>Lead Developer</b> – AI Productivity App (Focus Engine, Attention Analytics)</li>
             <li><b> Research Intern</b> – ML-based Skin Disease Detection (SPIT x Aim4U Solutions)</li>
             <li><b>Tech Intern</b> @ NKCCA – LMS using Flutter + Firebase + AWS IVS</li>
-            <li>
+            <li> Summer SDE Intern (Upcoming) @ <b> General Mills </b>
             <li><b>Freelancer</b> – Only Vocal App</li>
           </ul>
         </div>
