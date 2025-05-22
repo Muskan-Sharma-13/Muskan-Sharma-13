@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F77737&height=200&section=header&text=Muskan%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Expert%20|%20AI%20Innovator%20|%20Patent%20Holder&descAlignY=60&descAlign=50" width="100%" alt="Muskan Sharma"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F77737&height=200&section=header&text=Muskan%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Expert%20|%20Full-Stack%20Web%20Developer%20|%20Patent%20Holder|%20SIH%2024%20Winner&descAlignY=60&descAlign=50" width="100%" alt="Muskan Sharma"/>
 </div>
 
 <!-- ANIMATED GREETING -->
