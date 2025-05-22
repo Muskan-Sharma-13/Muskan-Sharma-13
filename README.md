@@ -68,7 +68,7 @@
             alt="Most Used Languages" />
         <!-- Tech Avatar GIF -->
         <img width="100%" 
-            src="/glitch-crypto.gif" 
+            src="https://media.giphy.com/media/0hv8d4HrDVI6m7w7pF/giphy.gif?cid=ecf05e470kxxr8eemzt58kby9exk6vomslwjeqxjipytv7mr&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
             alt="Tech Avatar" 
             style="border-radius: 10px; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
       </div>
