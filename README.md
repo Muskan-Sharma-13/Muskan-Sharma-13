@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F77737&height=200&section=header&text=Muskan%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Expert%20|%20Full-Stack%20Web%20Developer%20|%20Patent%20Holder|%20SIH%2024%20Winner&descAlignY=60&descAlign=50" width="100%" alt="Muskan Sharma"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F77737&height=200&section=header&text=Muskan%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Expert%20|%20Full-Stack%20Web%20Developer%20|%20Patent%20Holder|%20SIH%202024%20Winner&descAlignY=60&descAlign=50" width="100%" alt="Muskan Sharma"/>
 </div>
 
 <!-- ANIMATED GREETING -->
@@ -35,22 +35,22 @@
       <h2 style="font-family: 'JetBrains Mono', monospace; color: #F77737;">🚀 About Me</h2>
       <div style="display: flex; flex-direction: column; gap: 16px; background: rgba(13, 17, 23, 0.7); border-radius: 16px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.1); font-size: 15px; line-height: 1.8;">
         <div><b> Education:</b><br/>
-          <span style="color:#CCCCCC;">Computer Engineering @ <b>SPIT Mumbai</b> <code style="color:#6C63FF;">(CGPA: 9.51/10)</code><br/>
-          Minor in Finance & Management @ <b>SPJIMR</b></span>
+          <span style="color:#CCCCCC;">Computer Engineering @ <b>SPIT Mumbai</b> <code style="color:#6C63FF;">(CGPA: 9.12/10)</code><br/>
+</span>
         </div>
         <br />
         <div><b> Professional Experience:</b><br/>
           <ul style="margin-left: -20px; padding-left: 20px;">
             <li><b>Lead Developer</b> – AI Productivity App (Focus Engine, Attention Analytics)</li>
-            <li><b> Research Intern</b> – AI-based Diabetic Foot Detection (SPIT x KEM Hospitals)</li>
+            <li><b> Research Intern</b> – ML-based Skin Disease Detection (SPIT x Aim4U Solutions)</li>
             <li><b>Tech Intern</b> @ NKCCA – LMS using Flutter + Firebase + AWS IVS</li>
-            <li><b>Developer Intern</b> @ Sattvastha.AI – Mental Health LLM</li>
-            <li><b>Freelancer</b> – Labor Market App (Multilingual + Geo-Matching)</li>
+            <li>
+            <li><b>Freelancer</b> – Only Vocal App</li>
           </ul>
         </div>
         <div><b> Achievements:</b><br/>
           <ul style="margin-left: -20px; padding-left: 20px;">
-            <li><b>10x Hackathon Winner</b> incl. <code style="color:#F77737;">Smart India Hackathon 2024</code></li>
+            <li><b>9x Hackathon Winner</b> incl. <code style="color:#F77737;">Smart India Hackathon 2024</code></li>
             <li><b>Patent Holder</b> – "PETHUB: Integrated Pet Care System" <code style="color:#00C4CC;">(Published Jan 2025)</code></li>
           </ul>
         </div>
@@ -110,7 +110,6 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" alt="Hive" />
   </p>
   
   <!-- AI/ML & CLOUD -->
@@ -119,7 +118,7 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/REST_API-FF5733?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-    <img src="https://img.shields.io/badge/IoT-010101?style=for-the-badge&logo=iot&logoColor=white" alt="IoT" />
+    
   </p>
   
   <!-- DEVELOPER TOOLS -->
