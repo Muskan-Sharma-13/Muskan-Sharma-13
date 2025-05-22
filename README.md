@@ -160,7 +160,7 @@
         <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
           <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #6C63FF;">HealthWise</h3>
           <div align="center">
-            <a href="https://github.com/Muskan-Sharma-13/HealthWise_" target="_blank">
+            <a href="https://github.com/Muskan-Sharma-13/HealthWise_Remote_Health_Monitoring_Ecosystem" target="_blank">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muskan-Sharma-13&repo=HealthWise_&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="HealthWise Project"/>
             </a>
             <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #FF6F00; background: rgba(255, 111, 0, 0.1); padding: 3px 6px; border-radius: 4px;">TensorFlow</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">Wearable Integration</code></p>
@@ -172,7 +172,7 @@
         <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
           <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #F77737;">PetHub</h3>
           <div align="center">
-            <a href="https://github.com/Muskan-Sharma-13/PetHub" target="_blank">
+            <a href="https://github.com/Muskan-Sharma-13/PetHub_PetCare_App" target="_blank">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muskan-Sharma-13&repo=PetHub&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="PetHub Project"/>
             </a>
             <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #3776AB; background: rgba(55, 118, 171, 0.1); padding: 3px 6px; border-radius: 4px;">ML</code> <code style="color: #F7DF1E; background: rgba(247, 223, 30, 0.1); padding: 3px 6px; border-radius: 4px;">QR Codes</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">GenAI</code></p>
@@ -192,7 +192,7 @@
         <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
           <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #00C4CC;">Aura</h3>
           <div align="center">
-            <a href="https://github.com/Muskan-Sharma-13/aura" target="_blank">
+            <a href="https://github.com/Muskan-Sharma-13/Aura_Mental_Health_Monitoring_App" target="_blank">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muskan-Sharma-13&repo=aura&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Aura Project"/>
             </a>
             <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #F77737; background: rgba(247, 119, 55, 0.1); padding: 3px 6px; border-radius: 4px;">Behavioral Analytics</code> <code style="color: #3776AB; background: rgba(55, 118, 171, 0.1); padding: 3px 6px; border-radius: 4px;">ML</code></p>
@@ -204,7 +204,7 @@
         <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
           <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #6C63FF;">NetWealth</h3>
           <div align="center">
-            <a href="https://github.com/Muskan-Sharma-13/netWealth" target="_blank">
+            <a href="https://github.com/Muskan-Sharma-13/NetWealth_Financial_Networking_App" target="_blank">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muskan-Sharma-13&repo=netWealth&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="NetWealth Project"/>
             </a>
             <p><code style="color: #61DAFB; background: rgba(97, 218, 251, 0.1); padding: 3px 6px; border-radius: 4px;">React</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #F7DF1E; background: rgba(247, 223, 30, 0.1); padding: 3px 6px; border-radius: 4px;">FinTech APIs</code></p>
