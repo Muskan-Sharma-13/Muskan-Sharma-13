@@ -1,27 +1,27 @@
 <!-- BANNER IMAGE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F77737&height=200&section=header&text=Sanjeev%20Ratnani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Expert%20|%20AI%20Innovator%20|%20Patent%20Holder&descAlignY=60&descAlign=50" width="100%" alt="Sanjeev Ratnani"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F77737&height=200&section=header&text=Muskan%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Expert%20|%20AI%20Innovator%20|%20Patent%20Holder&descAlignY=60&descAlign=50" width="100%" alt="Muskan Sharma"/>
 </div>
 
 <!-- ANIMATED GREETING -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Sanjeev;Mobile+%26+AI+Developer;10x+Hackathon+Winner;HealthTech+Innovator;Patent+Holder;EdTech+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Muskan;Mobile+%26+AI+Developer;10x+Hackathon+Winner;HealthTech+Innovator;Patent+Holder;EdTech+Innovator" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center">
    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/San-2310/San-2310/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/San-2310/San-2310/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muskan-Sharma-13/Muskan-Sharma-13/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muskan-Sharma-13/Muskan-Sharma-13/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=San-2310&style=for-the-badge&color=6C63FF" alt="Profile Views" />
-  <a href="https://github.com/San-2310?tab=followers">
-    <img src="https://img.shields.io/github/followers/San-2310?style=for-the-badge&color=F77737" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Muskan-Sharma-13&style=for-the-badge&color=6C63FF" alt="Profile Views" />
+  <a href="https://github.com/Muskan-Sharma-13?tab=followers">
+    <img src="https://img.shields.io/github/followers/Muskan-Sharma-13?style=for-the-badge&color=F77737" alt="Followers" />
   </a>
 </div>
 <br />
@@ -64,7 +64,7 @@
       <div style="display: flex; flex-direction: column; gap: 20px;">
         <!-- GitHub Stats -->
         <img width="100%" 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Sharma-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
             alt="Most Used Languages" />
         <!-- Tech Avatar GIF -->
         <img width="100%" 
@@ -161,8 +161,8 @@
         <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
           <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #6C63FF;">HealthWise</h3>
           <div align="center">
-            <a href="https://github.com/San-2310/HealthWise_" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=HealthWise_&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="HealthWise Project"/>
+            <a href="https://github.com/Muskan-Sharma-13/HealthWise_" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muskan-Sharma-13&repo=HealthWise_&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="HealthWise Project"/>
             </a>
             <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #FF6F00; background: rgba(255, 111, 0, 0.1); padding: 3px 6px; border-radius: 4px;">TensorFlow</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">Wearable Integration</code></p>
 <!--             <p style="text-align: justify; font-size: 14px;">Remote patient monitoring system with real-time health tracking, wearable integration, and AI-powered health insights</p> -->
@@ -173,8 +173,8 @@
         <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
           <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #F77737;">PetHub</h3>
           <div align="center">
-            <a href="https://github.com/San-2310/PetHub" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=PetHub&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="PetHub Project"/>
+            <a href="https://github.com/Muskan-Sharma-13/PetHub" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muskan-Sharma-13&repo=PetHub&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="PetHub Project"/>
             </a>
             <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #3776AB; background: rgba(55, 118, 171, 0.1); padding: 3px 6px; border-radius: 4px;">ML</code> <code style="color: #F7DF1E; background: rgba(247, 223, 30, 0.1); padding: 3px 6px; border-radius: 4px;">QR Codes</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">GenAI</code></p>
 <!--             <p style="text-align: justify; font-size: 14px;">Integrated pet care platform leveraging ML and GenAI for intelligent healthcare, nutrition tracking, and wellness management</p> -->
@@ -193,8 +193,8 @@
         <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
           <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #00C4CC;">Aura</h3>
           <div align="center">
-            <a href="https://github.com/San-2310/aura" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=aura&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Aura Project"/>
+            <a href="https://github.com/Muskan-Sharma-13/aura" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muskan-Sharma-13&repo=aura&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Aura Project"/>
             </a>
             <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #F77737; background: rgba(247, 119, 55, 0.1); padding: 3px 6px; border-radius: 4px;">Behavioral Analytics</code> <code style="color: #3776AB; background: rgba(55, 118, 171, 0.1); padding: 3px 6px; border-radius: 4px;">ML</code></p>
 <!--             <p style="text-align: justify; font-size: 14px;">Mental wellness platform leveraging digital behavior analysis and context-aware AI for proactive mental health intervention</p> -->
@@ -205,8 +205,8 @@
         <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
           <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #6C63FF;">NetWealth</h3>
           <div align="center">
-            <a href="https://github.com/San-2310/netWealth" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=netWealth&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="NetWealth Project"/>
+            <a href="https://github.com/Muskan-Sharma-13/netWealth" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muskan-Sharma-13&repo=netWealth&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="NetWealth Project"/>
             </a>
             <p><code style="color: #61DAFB; background: rgba(97, 218, 251, 0.1); padding: 3px 6px; border-radius: 4px;">React</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #F7DF1E; background: rgba(247, 223, 30, 0.1); padding: 3px 6px; border-radius: 4px;">FinTech APIs</code></p>
 <!--             <p style="text-align: justify; font-size: 14px;">Specialized networking and collaboration platform for FinTech professionals, startups, and investors with knowledge sharing tools</p> -->
@@ -218,37 +218,6 @@
 </div>
 
 <!-- Project Cards - Third Row -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
-          <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #F77737;">EmpowerHer</h3>
-          <div align="center">
-            <a href="https://github.com/San-2310/EmpowerHer" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=EmpowerHer&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="EmpowerHer Project"/>
-            </a>
-            <p><code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">AI</code> <code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Voice Recognition</code> <code style="color: #F77737; background: rgba(247, 119, 55, 0.1); padding: 3px 6px; border-radius: 4px;">Computer Vision</code></p>
-<!--             <p style="text-align: justify; font-size: 14px;">AI-first, voice-enabled platform to upskill underprivileged women and connect them to remote job opportunities</p>  -->
-          </div> 
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
-          <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #00C4CC;">Roomie Radar</h3>
-          <div align="center">
-            <a href="https://github.com/San-2310/roomie_radar" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=roomie_radar&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Roomie Radar Project"/>
-            </a>
-            <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">Matching Algorithms</code></p>
-<!--             <p style="text-align: justify; font-size: 14px;">Platform for college students to find compatible roommates and reliable PG accommodations with campus-specific insights</p> -->
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-<br />
 
 <!-- GITHUB STATS AND STREAK -->
 <h2 align="center"><span style="background: linear-gradient(to right, #6C63FF, #F77737); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🔥 DIGITAL FOOTPRINT</span></h2>
@@ -256,10 +225,10 @@
   <table>
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=San-2310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="Sanjeev's GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Muskan-Sharma-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="Muskan's GitHub Stats" />
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=San-2310&theme=tokyonight&hide_border=true&background=0D1117&include_all_commits=true" alt="Sanjeev's GitHub Streak" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-Sharma-13&theme=tokyonight&hide_border=true&background=0D1117&include_all_commits=true" alt="Muskan's GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -268,13 +237,13 @@
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=San-2310&bg_color=0D1117&color=5BCDEC&line=6C63FF&point=F77737&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muskan-Sharma-13&bg_color=0D1117&color=5BCDEC&line=6C63FF&point=F77737&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 <br />
 
 <!-- CONTRIBUTION CALENDAR -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=San-2310&theme=tokyonight" width="100%" alt="Contribution Calendar" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muskan-Sharma-13&theme=tokyonight" width="100%" alt="Contribution Calendar" />
 </div>
 <br />
 
@@ -282,7 +251,7 @@
 <h2 align="center"><span style="background: linear-gradient(to right, #6C63FF, #F77737); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🏆 ACHIEVEMENT MATRIX</span></h2>
 <div align="center" style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; margin-bottom: 20px;">
   <!-- TROPHY SHOWCASE -->
-  <img src="https://github-profile-trophy.vercel.app/?username=San-2310&theme=algolia&no-frame=true&no-bg=true&column=7" alt="Trophy Display" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muskan-Sharma-13&theme=algolia&no-frame=true&no-bg=true&column=7" alt="Trophy Display" width="100%" />
 </div>
 <div align="center">
   <details>
@@ -308,7 +277,6 @@
       </tr>
       <tr>
          <td style="padding: 10px; border-radius: 8px; background: rgba(108, 99, 255, 0.1);">🏅 Track Win - Quasar 3.0 (VPPCOE)</td>
-         <td style="padding: 10px; border-radius: 8px; background: rgba(108, 99, 255, 0.1);">🏅 Track Win - AIravat 2.0 (SPIT)</td>
       </tr>
     </table>
   </details>
@@ -318,13 +286,13 @@
 <!-- CONNECT WITH ME SECTION -->
 <h2 align="center">📫 Connect With Me</h2>
 <div align="center">
-  <a href="mailto:ratnanisanjeev23@gmail.com">
+  <a href="mailto:muskansharma.0913@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/sanjeev-ratnani">
+  <a href="https://www.linkedin.com/in/muskan-sharma-sep13/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/San-2310">
+  <a href="https://github.com/Muskan-Sharma-13">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
