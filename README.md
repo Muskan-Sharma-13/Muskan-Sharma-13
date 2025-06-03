@@ -161,7 +161,7 @@
           <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #6C63FF;">HealthWise</h3>
           <div align="center">
             <a href="https://github.com/Muskan-Sharma-13/HealthWise_Remote_Health_Monitoring_Ecosystem" target="_blank">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muskan-Sharma-13&repo=HealthWise_Remote_Health_Monitoring_Ecosystem_&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="HealthWise Project"/>
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muskan-Sharma-13&repo=HealthWise_Remote_Health_Monitoring_Ecosystem&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="HealthWise Project"/>
             </a>
             <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #FF6F00; background: rgba(255, 111, 0, 0.1); padding: 3px 6px; border-radius: 4px;">TensorFlow</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">Wearable Integration</code></p>
 <!--             <p style="text-align: justify; font-size: 14px;">Remote patient monitoring system with real-time health tracking, wearable integration, and AI-powered health insights</p> -->
